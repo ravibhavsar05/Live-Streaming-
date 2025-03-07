@@ -38,6 +38,12 @@ LiveStreaming is a React Native app designed to play live videos from YouTube. I
      npx react-native run-ios
      ```
 
+
+
+
+https://github.com/user-attachments/assets/ff5f5764-77b8-412f-8a7b-cd341652b2ab
+
+
 ## Usage
 - Open the app and browse the list of currently live YouTube videos.
 - Tap on a video to start streaming.
