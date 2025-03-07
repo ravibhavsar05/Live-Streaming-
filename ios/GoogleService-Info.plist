@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>142783426471-e797t8oojf1ksj1st8qdtohl6lekg513.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.142783426471-e797t8oojf1ksj1st8qdtohl6lekg513</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>142783426471-bstjg0rmr6e779jqh7m3rf3j69la5b8r.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBBtJuXsrz5MJWVquBlKDGdijPVPuAgUz4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>142783426471</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.livesteaming.IOS</string>
+	<key>PROJECT_ID</key>
+	<string>livesteaming-b1caf</string>
+	<key>STORAGE_BUCKET</key>
+	<string>livesteaming-b1caf.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:142783426471:ios:2641b74d5e4360f63c5082</string>
+</dict>
+</plist>

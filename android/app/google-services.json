@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "142783426471",
+    "project_id": "livesteaming-b1caf",
+    "storage_bucket": "livesteaming-b1caf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142783426471:android:288fcf46a2492c9b3c5082",
+        "android_client_info": {
+          "package_name": "com.livesteaming"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142783426471-bstjg0rmr6e779jqh7m3rf3j69la5b8r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.livesteaming",
+            "certificate_hash": "383c5d42a0d2d7322007dac035ed3dab61bfa229"
+          }
+        },
+        {
+          "client_id": "142783426471-tobdt96qlts1vsgj07qfrv72ea1npp2p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9r6iaBukBZGVpo_tMQ6na14JCL-X8kus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142783426471-tobdt96qlts1vsgj07qfrv72ea1npp2p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
